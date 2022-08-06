@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ![Preview](preview.jpg)
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://repairmap.github.io/sheets-template/
 - Google Sheets feeding this map https://docs.google.com/spreadsheets/d/17gRluFQ755wXCoWezLsNkqGjmrdzDP1oXP3z1HacAm4/edit#gid=0
 
